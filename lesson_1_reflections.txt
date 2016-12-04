@@ -1,0 +1,17 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A=     Well, it's good to compare two files to view the difference between them, it's more easy to me, find the difference and also see what mistake i made.
+
+How could having easy access to the entire history of a file make you a more     efficient programmer in the long term?
+
+A= Because if i need a new addision for mi program, i can shearch in my oldest  version to find a some command or some loop usefull to make the new program more easy or renovate the app
+
+What do you think are the pros and cons of manually choosing when to create a   commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+a= the pros to do manually is that you save all that you want, important thinks or in some cases information that is relevant to you
+the cons is to save every 1 hour or 1 week or every time you can change some syntax on yor version, but i rahter this than the versions who automatically saved.
+
+
+
+What happens when you initialize a repository? Why do you need to do it?
+When i initialize a repository i start with zero commit i need to create a commits ando next for vie my stat i use git stat for see the files that have change since the last commit.
